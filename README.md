@@ -1,7 +1,7 @@
-<h1> Hello, I am Vladislav Dimitrov 👋 </h1>
+<h1 align="center"> Hello, I am Vladislav Dimitrov 👋 </h1>
 
-<h3> About me </h3>
-<br>💡 Java Enjoyer<br>I recently got a certificate in Java development and am eager to apply my experience in backend development.<br><br>🎓Education<br>I am currently studying for a Bachelor's degree in Informatics
+<h3> About me: </h3>
+💡 Java Enjoyer<br>I recently got a certificate in Java development and am eager to apply my experience in backend development.<br><br>🎓Education<br>I am currently studying for a Bachelor's degree in Informatics
 
 <h3> Languages and Tools:</h3>
 <div >
